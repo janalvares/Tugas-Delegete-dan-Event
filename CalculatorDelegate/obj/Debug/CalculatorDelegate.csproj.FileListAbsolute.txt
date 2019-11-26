@@ -1,0 +1,11 @@
+D:\Kuliah\Pemrograman Lanjut\CalculatorDelegate\CalculatorDelegate\bin\Debug\CalculatorDelegate.exe.config
+D:\Kuliah\Pemrograman Lanjut\CalculatorDelegate\CalculatorDelegate\bin\Debug\CalculatorDelegate.exe
+D:\Kuliah\Pemrograman Lanjut\CalculatorDelegate\CalculatorDelegate\bin\Debug\CalculatorDelegate.pdb
+D:\Kuliah\Pemrograman Lanjut\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.csprojAssemblyReference.cache
+D:\Kuliah\Pemrograman Lanjut\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.HasilPerhitungan.resources
+D:\Kuliah\Pemrograman Lanjut\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.Perhitungan.resources
+D:\Kuliah\Pemrograman Lanjut\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.Properties.Resources.resources
+D:\Kuliah\Pemrograman Lanjut\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.csproj.GenerateResource.cache
+D:\Kuliah\Pemrograman Lanjut\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.csproj.CoreCompileInputs.cache
+D:\Kuliah\Pemrograman Lanjut\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.exe
+D:\Kuliah\Pemrograman Lanjut\CalculatorDelegate\CalculatorDelegate\obj\Debug\CalculatorDelegate.pdb
